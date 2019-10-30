@@ -8,7 +8,7 @@
 	"website": "",
 	"fullscreen": "true",
 	"useragent": null,
-	"orientation": "default",
+	"orientation": "landscape",
 	"icons": [{
 		"src": "www/icon-256.png",
 		"width": 256,
